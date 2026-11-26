@@ -1,0 +1,14 @@
+# SmartMeal UI colors
+
+BG = "#F7FAF5"
+WHITE = "#FFFFFF"
+
+GREEN = "#8DBB8A"
+DARK_GREEN = "#426B49"
+LIGHT_GREEN = "#E4F1DF"
+
+TEXT = "#344338"
+GRAY = "#7A877B"
+RED = "#C85C5C"
+
+FONT = "Arial"
